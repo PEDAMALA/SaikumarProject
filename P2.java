@@ -4,5 +4,6 @@ class P2{
 		System.out.println(i);
 		i=100;
 		System.out.println(i);
+		System.out.println("Hi Pavan kumar");
 	}
 }
